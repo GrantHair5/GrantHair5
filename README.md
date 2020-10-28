@@ -1,16 +1,49 @@
-### Hi there 👋
+### C'mon, I'll Show Ye Aboot
 
-<!--
-**GrantHair5/GrantHair5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+var grant = new Developer
+{
+    FullName = "Grant Hair",
+    Age = 24,
+    Based = "Glasgow, Scotland",
+    Languages =  ["C#", "JavaScript", "Python", "Scottish"],
+    Loves =  ["Cats", "Dogs", "Yerba Mate", "Coffee", "The Codez", "Sports"],
+    Needs =  ["Yerba", "Inspiration", "GIFs", "Challenges"]
+};
+```
 
-Here are some ideas to get you started:
+# Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Delivering great systems for customers and staff of Arnold Clark to ease the process of any Aftersales processes using .NET Core 
+
+# Current Side Projects
+
+Cat detector AI to aid with personal Python development
+
+https://github.com/GrantHair5/CatDetectorPy
+
+# Currently interested by 
+
+The Open Container Initiative https://opencontainers.org/
+
+# Currently Drinking 🧉
+
+Rosamonte Yerba Mate (7/5 would recommend) 
+
+Buy It here
+https://urushop.co.uk/shop/yerba-mate-from-south-america/1kg/yerba-mate-rosamonte-1kg/
+
+![https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg](https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg)
+
+# Currently Watching After Work
+
+## I'm Alan Partridge on Netflix
+
+https://www.netflix.com/gb/title/70285853
+
+![https://media.giphy.com/media/uZn1OsA9jfHrO/giphy.gif](https://media.giphy.com/media/uZn1OsA9jfHrO/giphy.gif)
+
+![https://media.giphy.com/media/VNOjokgMLT0ME/giphy.gif](https://media.giphy.com/media/VNOjokgMLT0ME/giphy.gif)
+
+![https://media.giphy.com/media/QiHPiQ552YJe8/giphy.gif](https://media.giphy.com/media/QiHPiQ552YJe8/giphy.gif)
+![https://media.giphy.com/media/13ooW33hfkcCje/giphy.gif](https://media.giphy.com/media/13ooW33hfkcCje/giphy.gif)
