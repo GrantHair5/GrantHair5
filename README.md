@@ -7,7 +7,7 @@ var grant = new Developer
     Age = 24,
     Based = "Glasgow, Scotland",
     Languages =  ["C#", "JavaScript", "Python", "Scottish"],
-    Loves =  ["Cats", "Dogs", "Yerba Mate", "Coffee", "The Codez", "Sports"],
+    Loves =  ["Cats", "Dogs", "Yerba Mate", "Coffee", "The Codez", "Sports", "Pop Up Headlights on JDM Cars"],
     Needs =  ["Yerba", "Inspiration", "GIFs", "Challenges"]
 };
 ```
