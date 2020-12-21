@@ -16,6 +16,8 @@ var grant = new Developer
 
 Delivering great systems for customers and staff of Arnold Clark to ease the process of any Aftersales processes using .NET Core 
 
+Blogging via hashnode https://granthair.hashnode.dev/
+
 # Current Side Projects
 
 Cat detector AI to aid with personal Python development
