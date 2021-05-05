@@ -16,7 +16,7 @@ var grant = new Developer
 
 Delivering great systems for customers and staff of Arnold Clark to ease the process of any Aftersales processes using .NET Core 
 
-Blogging via hashnode https://granthair.hashnode.dev/
+Blogging https://dev.to/granthair5
 
 # Current Side Projects
 
