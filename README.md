@@ -39,6 +39,17 @@ https://urushop.co.uk/shop/yerba-mate-from-south-america/1kg/yerba-mate-rosamont
 
 # Currently Watching After Work
 
+## It's Always Sunny in Philadelphia
+
+https://www.netflix.com/gb/title/70136141
+
+![https://media.giphy.com/media/L3QRMBdJfaY6jSNSc0/giphy.gif](https://media.giphy.com/media/L3QRMBdJfaY6jSNSc0/giphy.gif)
+
+![image](https://user-images.githubusercontent.com/29626438/154505781-7e6aae35-ef94-4da5-ae6a-aa6e6c2315f2.png)
+
+![image](https://user-images.githubusercontent.com/29626438/154505922-a504e2f9-15a8-40f5-bd5b-5f9bf8d41675.png)
+
+
 ## I'm Alan Partridge on Netflix
 
 https://www.netflix.com/gb/title/70285853
