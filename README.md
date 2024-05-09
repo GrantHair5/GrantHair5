@@ -14,7 +14,7 @@ var grant = new Developer
 
 # Currently Working On
 
-Delivering great systems for customers and staff of Arnold Clark to ease the process of any Aftersales processes using .NET Core 
+Delivering great systems for customers and staff of Arnold Clark within the Mobile App team, using a variety of .NET/C# technologies and various frontend stuff including but not limited to React, Typescript & Vite
 
 Blogging https://dev.to/granthair5
 
@@ -38,6 +38,10 @@ https://urushop.co.uk/shop/yerba-mate-from-south-america/1kg/yerba-mate-rosamont
 ![https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg](https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg)
 
 # Currently Watching After Work
+
+## Curb Your Enthusiasm 
+
+![https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYwaDV3cG8wc2M4ZDZwaWs4MnI0NmQzMHQ5azVla2U4ZHhha3RkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrJ8x0niiblWEoo7hE/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYwaDV3cG8wc2M4ZDZwaWs4MnI0NmQzMHQ5azVla2U4ZHhha3RkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrJ8x0niiblWEoo7hE/giphy.gif)
 
 ## It's Always Sunny in Philadelphia
 
