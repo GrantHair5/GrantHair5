@@ -1,14 +1,15 @@
-### C'mon, I'll Show Ye Aboot
+### Grant Hair
 
 ```csharp
 var grant = new Developer
 {
     FullName = "Grant Hair",
     Age = 27,
-    Based = "Glasgow, Scotland",
-    Languages =  ["C#", "JavaScript", "Python", "Scottish"],
-    Loves =  ["Cats", "Dogs", "Yerba Mate", "Coffee", "The Codez", "Sports", "Pop Up Headlights on JDM Cars"],
-    Needs =  ["Yerba", "Inspiration", "GIFs", "Challenges"]
+    Based = "Dumfries, Scotland",
+    Fully Remote = true,
+    Languages =  ["C#", "JavaScript", "Typescript", "Scottish"],
+    Loves =  ["Golf", "Hitting a nasty eurostep after draining a putt for the bird", "codes n stuff"],
+    Needs =  ["Yerba", "Keyboard", "Mouse", "As many screens as you can fit on a desk"]
 };
 ```
 
@@ -17,6 +18,8 @@ var grant = new Developer
 Delivering great systems for customers and staff of Arnold Clark within the Mobile App team, using a variety of .NET/C# technologies and various frontend stuff including but not limited to React, Typescript & Vite
 
 Blogging https://dev.to/granthair5
+
+My short game, hit me up if you'd like to create golf content... looking at you Bob Does Sports 
 
 # Current Side Projects
 
