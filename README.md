@@ -4,16 +4,17 @@
 var grant = new Developer
 {
     FullName = "Grant Hair",
-    Age = 27,
+    Age = 29,
     Based = "Dumfries, Scotland",
     Fully Remote = true,
     Languages =  ["C#", "JavaScript", "Typescript", "Scottish"],
-    Loves =  ["Golf", "Hitting a nasty eurostep after draining a putt for the bird", "codes n stuff"],
+    Loves =  ["Golf", "Hitting a nasty eurostep after draining a putt for the bird", "codes n stuff", "my 3 children"],
     Needs =  ["Yerba", "Keyboard", "Mouse", "As many screens as you can fit on a desk"]
 };
 ```
 
 # Currently Working On
+Being a girl dad to 2 and a boy dad to 1. 
 
 Delivering great systems for customers and staff of Arnold Clark within the Mobile App team, using a variety of .NET/C# technologies and various frontend stuff including but not limited to React, Typescript & Vite
 
@@ -41,6 +42,10 @@ https://urushop.co.uk/shop/yerba-mate-from-south-america/1kg/yerba-mate-rosamont
 ![https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg](https://i.pinimg.com/originals/0b/1d/1a/0b1d1a39ff7647eaed7c2bc65870d98b.jpg)
 
 # Currently Watching After Work
+
+## Cocomelon 
+
+## Octonauts
 
 ## Curb Your Enthusiasm 
 
